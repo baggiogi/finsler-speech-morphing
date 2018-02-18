@@ -5,7 +5,7 @@ This repository contains some audible results of the speech morphing procedure i
 G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral Densities", *Submitted for publication*, 2018. (pre-print available at https://arxiv.org/abs/1708.02818)
 
 
-Instructions:
+**Instructions:**
 
 - files "speech_man.wav" and "speech_woman.wav" contain a sentence spoken by a male and female individual
 - files "synt_speech_man.wav" and "synt_speech_woman.wav" contain the resulting synthesized sentences obtain via Linear Predictive Coding
