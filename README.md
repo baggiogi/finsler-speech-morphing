@@ -1,6 +1,6 @@
 # Finsler speech morphing
 
-This repository contains some audible results of the speech morphing procedure illustrated in Section V of the paper 
+This repository contains some audible results of the speech morphing procedure illustrated in Section V of the paper:
 
 G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral Densities", *Submitted for publication*, 2018. (pre-print available at https://arxiv.org/abs/1708.02818)
 
