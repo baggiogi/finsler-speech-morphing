@@ -2,7 +2,7 @@
 
 This repository contains some audible results of the speech morphing procedure illustrated in Section V of the paper:
 
-G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral Densities", *Submitted for publication*, 2018. (pre-print available at https://arxiv.org/abs/1708.02818)
+G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral Densities", *IEEE Transactions on Automatic Control*, vol. 64, no. 5, pp. 1848-1857, May 2019. (pre-print available at https://arxiv.org/abs/1708.02818)
 
 
 **Instructions:**
