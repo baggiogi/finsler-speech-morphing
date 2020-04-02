@@ -12,3 +12,7 @@ G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral
 - file `morphed_sentence_interp.wav` contains some samples of the interpolated speech signal (from synthesized female to synthesized male voice) obtained using Finsler geodesic path according to the method discussed in the above paper.
 - file `morphed_sentence_extrap_woman.wav` contains some samples of the extrapolated speech signal (from synthesized female voice) obtained using Finsler geodesic path according to the method discussed in the above paper.
 
+***
+
+Author : G. Baggio <br/>
+E-mail : baggio [dot] giacomo [at] gmail [dot] com
