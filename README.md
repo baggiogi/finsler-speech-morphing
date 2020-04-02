@@ -7,8 +7,8 @@ G. Baggio, A. Ferrante, R. Sepulchre, "Conal Distances Between Rational Spectral
 
 **Details:**
 
-- files `peech_man.wav` and `speech_woman.wav` contain a sentence spoken by a male and female individual
-- files `synt_speech_man.wav` and `synt_speech_woman.wav` contain the resulting synthesized sentences obtained via Linear Predictive Coding
-- file `morphed_sentence_interp.wav` contains some samples of the interpolated speech signal (from synthesized female to synthesized male voice) obtained using Finsler geodesic path according to the method discussed in the above reference
-- file `morphed_sentence_extrap_woman.wav` contains some samples of the extrapolated speech signal (from synthesized female voice) obtained using Finsler geodesic path according to the method discussed in the above reference
+- files `peech_man.wav` and `speech_woman.wav` contain a sentence spoken by a male and female individual.
+- files `synt_speech_man.wav` and `synt_speech_woman.wav` contain the resulting synthesized sentences obtained via Linear Predictive Coding.
+- file `morphed_sentence_interp.wav` contains some samples of the interpolated speech signal (from synthesized female to synthesized male voice) obtained using Finsler geodesic path according to the method discussed in the above paper.
+- file `morphed_sentence_extrap_woman.wav` contains some samples of the extrapolated speech signal (from synthesized female voice) obtained using Finsler geodesic path according to the method discussed in the above paper.
 
